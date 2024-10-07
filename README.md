@@ -7,6 +7,8 @@ coin dash:
 
 [Player Scene 8/30](Player_Scene_8_30/)
 
+[Main scene 10/7](main_scene_10_7/)
+
 space rocks:
 
 [Player scene 10/1](Player_space_Rocks_10_1)
