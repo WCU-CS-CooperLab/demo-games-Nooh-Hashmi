@@ -1,7 +1,7 @@
 # GamePublish
 A template repository to publish games
 
-##coin dash:
+## Coin dash:
 
 [Player Scene](Player_Scene/)
 
@@ -9,13 +9,13 @@ A template repository to publish games
 
 [Main scene 10/7](main_scene_10_7/)
 
-##space rocks:
+## Space rocks:
 
 [Player scene 10/1](Player_space_Rocks_10_1)
 
 [Main Scene 10/2](space_rocks_main_10_2)
 
-##jungle jump:
+## Jungle jump:
 
 [Player Scene jungle jump 9/30](Player_scene_9_30/)
 
