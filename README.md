@@ -11,9 +11,11 @@ A template repository to publish games
 
 ## Space rocks:
 
-[Player scene 10/1](Player_space_Rocks_10_1)
+[Player scene 10/1](Player_space_Rocks_10_1/)
 
-[Main Scene 10/2](space_rocks_main_10_2)
+[Main Scene 10/2](space_rocks_main_10_2/)
+
+[Enemy Ui and Pause 10/10](enemy_Ui_Pause_10_10/)
 
 ## Jungle jump:
 
