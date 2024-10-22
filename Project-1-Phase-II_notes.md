@@ -1,5 +1,10 @@
 # Project 1 phase II game notes
 
+## controls:
+1. arrow keys to move
+2. left Shift, Cost 20, power 1: magnet.
+3. left Ctrl, Cost 100, power 2: extra life. 
+
 ## change 1:
 For the first change I added an inert character that can be switched to. there are 2 playable characters that the player can enjoy. the first character is the regular fox. This character does not have any special features. it just runs around and collects coins. the second character is called Spender. 
 
