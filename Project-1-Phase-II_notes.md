@@ -14,6 +14,11 @@ Spender, as the name may suggest may spend some of the coins collected to activa
 2. Extra life. cost: 100 coins. click left control to activate. by spending 100 coins your character gains an extra life. meaning you get to sustain one extra hit from a cactus up to however many lives you have gained. (at the moment there is no way to really see how many lives you have. I will update that later.)
 
 ## Change 2:
+the second change is pretty simple. I have added 2 new powerups to the game, speed boost and destroy cacti
+
+1. speed boost spawns once every 5-15 seconds. it increases the players movement speed. this one is a blue powerup.
+
+2. destoy cacti, makes all the cacti on the level dissapear. this is a strong power up so its cooldown is a little unique. after the powerup gets picked up. the cooldown timer does not start untill you get the 2 levels after you pick up the power up. and then a cooldown timer of 10-20 seconds.
 
 ## Change 3:
 
