@@ -21,5 +21,13 @@ the second change is pretty simple. I have added 2 new powerups to the game, spe
 2. destoy cacti, makes all the cacti on the level dissapear. this is a strong power up so its cooldown is a little unique. after the powerup gets picked up. the cooldown timer does not start untill you get the 2 levels after you pick up the power up. and then a cooldown timer of 10-20 seconds.
 
 ## Change 3:
+added bombs into the level. after one blows up, another spawns after a second.
+what the bomb does is simple. if the bomb explodes with you in it you lose a couple seconds on the clock.
+
+1. If you step on before it explodes by itself. it will explode and you will lose 6 seconds on the clock.
+
+2. If it explodes, and you step in the explosion you will only lose 3 seconds.
+
+The bombs take 5 seconds to explode. and the explosion only lasts for around .3 seconds.
 
 ## Change 4:
