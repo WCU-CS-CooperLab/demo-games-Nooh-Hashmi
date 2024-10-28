@@ -24,4 +24,8 @@ A template repository to publish games
 7. [Jungle Jump with sound ladders and moving platforms](Jungle_jump_sound_ladders_10_15/)
 
 ## 3D-MiniGolf
-1. [First Hole with a ball and arrow](Hole_Ball_Arrow_10_22)
+1. [First Hole with a ball and arrow](Hole_Ball_Arrow_10_22/)
+
+## Project 1
+1. [project 1 Phase I](Sound_Cactus_10_15/)
+2. [Project 1 Phase II](Project-I-Phase-II_Change_4/)
