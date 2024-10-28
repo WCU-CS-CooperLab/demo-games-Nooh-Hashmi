@@ -31,3 +31,7 @@ what the bomb does is simple. if the bomb explodes with you in it you lose a cou
 The bombs take 5 seconds to explode. and the explosion only lasts for around .3 seconds.
 
 ## Change 4:
+the final change of the game is that after level 5, you will be transported to space. here there are 2 changes
+1. the background changes to a space theme
+
+2. the coins have changed to gems, and the cacti has been changed to rocks.
