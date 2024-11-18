@@ -1,5 +1,10 @@
 # Project 1 phase II game notes
 
+## controls:
+1. arrow keys to move
+2. left Shift, Cost 20, power 1: magnet.
+3. left Ctrl, Cost 100, power 2: extra life. 
+
 ## change 1:
 For the first change I added an inert character that can be switched to. there are 2 playable characters that the player can enjoy. the first character is the regular fox. This character does not have any special features. it just runs around and collects coins. the second character is called Spender. 
 
@@ -9,7 +14,24 @@ Spender, as the name may suggest may spend some of the coins collected to activa
 2. Extra life. cost: 100 coins. click left control to activate. by spending 100 coins your character gains an extra life. meaning you get to sustain one extra hit from a cactus up to however many lives you have gained. (at the moment there is no way to really see how many lives you have. I will update that later.)
 
 ## Change 2:
+the second change is pretty simple. I have added 2 new powerups to the game, speed boost and destroy cacti
+
+1. speed boost spawns once every 5-15 seconds. it increases the players movement speed. this one is a blue powerup.
+
+2. destoy cacti, makes all the cacti on the level dissapear. this is a strong power up so its cooldown is a little unique. after the powerup gets picked up. the cooldown timer does not start untill you get the 2 levels after you pick up the power up. and then a cooldown timer of 10-20 seconds.
 
 ## Change 3:
+added bombs into the level. after one blows up, another spawns after a second.
+what the bomb does is simple. if the bomb explodes with you in it you lose a couple seconds on the clock.
+
+1. If you step on before it explodes by itself. it will explode and you will lose 6 seconds on the clock.
+
+2. If it explodes, and you step in the explosion you will only lose 3 seconds.
+
+The bombs take 5 seconds to explode. and the explosion only lasts for around .3 seconds.
 
 ## Change 4:
+the final change of the game is that after level 5, you will be transported to space. here there are 2 changes
+1. the background changes to a space theme
+
+2. the coins have changed to gems, and the cacti has been changed to rocks.
