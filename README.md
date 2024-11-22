@@ -23,6 +23,10 @@ A template repository to publish games
 6. [title screen and gamestate 10/12](title_screen_game_state_10_12/)
 7. [Jungle Jump with sound ladders and moving platforms](Jungle_jump_sound_ladders_10_15/)
 
+## Infinite Flyer:
+
+1. [Infinite flyer main scene](Infinite_Flyer_Main_scene_11_22/)
+
 ## 3D-MiniGolf
 1. [First Hole with a ball and arrow](Hole_Ball_Arrow_10_22/)
 
