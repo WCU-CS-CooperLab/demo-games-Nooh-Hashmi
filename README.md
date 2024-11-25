@@ -26,6 +26,7 @@ A template repository to publish games
 ## Infinite Flyer:
 
 1. [Infinite flyer main scene](Infinite_Flyer_Main_scene_11_22/)
+2. [Infinite flyer complete](infite_flyer_complete_10_25/)
 
 ## 3D-MiniGolf
 1. [First Hole with a ball and arrow](Hole_Ball_Arrow_10_22/)
