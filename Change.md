@@ -8,3 +8,6 @@ as you go further and further into the level, the faster your plane goes. each l
 
 ## Change 3: White Orbs
 White orbs spawn in the chunk at level 2 when the green rings spawn. the White orbs if hit, decrease your fuel by 2. 
+
+## Change 4: red squares
+the red sqaures, if hit, will freeze your plane in place and open up a password puzzle game. it will give you a number and you have to click that number. there will be around 4 or 5 numbers. if you complete the whole puzzle, then you will gain 100 points. if your fail a number 3 times, you will lose 2 fuel.
