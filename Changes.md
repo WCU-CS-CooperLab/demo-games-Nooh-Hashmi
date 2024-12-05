@@ -19,8 +19,8 @@ currently havent changed how enemies look, but they will be different ships that
 
 # Change 3:
 for change 3, I am going to make it where a power up will spawn randomly after destroying a rock.
-the power up:
-- after picking up the power up, you will have no cooldown on your gun.
+the powerup, is supposed to make your gun cooldown go down everytime you pick one up.
+does not work yet.
 
 # Change 4:
 for change 4, I dont know yet
