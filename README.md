@@ -35,6 +35,10 @@ A template repository to publish games
 1. [project 1 Phase I](Sound_Cactus_10_15/)
 2. [Project 1 Phase II](Project-I-Phase-II_Change_4/)
 
+## Project 2
+1. [Project 2 Phase I](enemy_Ui_Pause_10_10/)
+2. [Project 2 Phase II](Project-2-Phase-II_Change_2_3/)
+
 ## Project 3
 1. [Project 3 Phase I](Infinite_flyer_complete_10_25/)
 2. [Project 3 Phase II](Project-3-Phase-II_Change_4/)
