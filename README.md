@@ -45,3 +45,11 @@ A template repository to publish games
 
 ## Team Project 1:
 1. [Stone Bridge Treasure Heist](Team_Project_complete/)
+
+## Team Project 2:
+
+### mac:
+1. [mac download](team-project-2/mac/MMS)
+
+### windows:
+2. [windows](team-project-2/windows/MMS)
